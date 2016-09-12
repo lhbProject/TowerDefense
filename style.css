@@ -1,0 +1,10 @@
+#container {margin: 150px auto 0; position: relative; overflow: hidden;}
+#container .box {width: 50px; height: 50px; float: left; text-align: center; line-height: 50px;}
+.box1 {background: black; cursor: pointer;}
+.box1:hover {background: red;}
+.box0 {background: yellow;}
+.box3 {background: blue;}
+.gw {width: 50px; height: 50px; background: url(gw1.jpg) no-repeat; position: absolute;}
+.pt {width: 50px; height: 50px; background: url(pt1.jpg) no-repeat; float: left;}
+.bullet {width: 5px; height: 5px; position: absolute; background: #0000FF;}
+
